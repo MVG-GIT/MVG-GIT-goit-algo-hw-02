@@ -1,1 +1,0 @@
-# MVG-GIT-goit-algo-hw-02
